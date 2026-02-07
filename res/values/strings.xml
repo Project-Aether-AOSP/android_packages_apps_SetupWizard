@@ -19,10 +19,10 @@
     <string name="start">Start</string>
     <string name="done">Done</string>
     <string name="ok">OK</string>
-    <string name="loading">Just a sec\u2026</string>
+    <string name="loading">Just a moment\u2026</string>
 
     <!-- Welcome page -->
-    <string name="setup_welcome_message">Welcome to <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Welcome to <xliff:g id="name" example="Project Aether">%1$s</xliff:g></string>
     <string name="setup_managed_profile_welcome_message">Set up your work profile</string>
     <string name="emergency_call">Emergency call</string>
     <string name="accessibility_settings">Accessibility settings</string>
